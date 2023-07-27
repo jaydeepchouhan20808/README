@@ -3,7 +3,7 @@
 
 
 # 👋 About Me:
-🔭I'm a student of Computer Science and Information Technology at Acropolis Institute of Technology and Research in Indore.<br>🌱Currently in my third year, I have a strong academic record with an 8.5 CGPA.
+🔭I'm a student of Computer Science and Information Technology at Acropolis Institute of Technology and Research in Indore.<br>🌱Currently in my final year, I have a strong academic record with an 8.5 CGPA.
 
 
 ## 🌐 Socials:
