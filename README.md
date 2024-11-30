@@ -3,7 +3,7 @@
 
 
 # 👋 About Me:
-🔭I'm a student of Computer Science and Information Technology at Acropolis Institute of Technology and Research in Indore.<br>🌱Currently in my final year, I have a strong academic record with an 8.5 CGPA.
+🔭I'm a Solution Engineer at GAMMASTACK.<br>🌱I completed my bachelor's degree in  Computer Science and Information Technology from Acropolis Institute of Technology and Research with a strong academic record with an 8.5 CGPA.
 
 
 ## 🌐 Socials:
